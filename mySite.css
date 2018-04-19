@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, serif;
+}
+
+h1 {
+  font-family: Georgia, serif;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  color: #51AB54;
+}
+
+section {
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+p{
+  font-size: 1.2em;
+  font-weight: light;
+}
+
+#profile {
+  border-radius: 10%;
+}
+
+.landing {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.blurb > a {
+  margin-left: 50px;
+  margin-right: 50px;
+}
